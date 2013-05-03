@@ -4,10 +4,10 @@ Project-Z
 Introduction
 ------------
 This is a simple, skeleton application using:
-ZF2
-Doctrine
-Zftool
-Zend-developer-tools
+ - ZF2
+ - Doctrine
+ - Zftool
+ - Zend-developer-tools
 
 
 Installation
