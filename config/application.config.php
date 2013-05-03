@@ -7,8 +7,11 @@
  */
 return array(
     'modules' => array(
-        'Application',
-        'Admin'
+	'ZendDeveloperTools',
+        'DoctrineModule',
+	'DoctrineORMModule',
+	'Application',
+	'Admin'
         ),
     'module_listener_options' => array(
         'module_paths' => array(
